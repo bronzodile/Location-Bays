@@ -4,10 +4,10 @@ pageextension 50000 "Location Card Bays" extends "Location Card"
     {
         addafter(Code)
         {
-            field(Test; 'Test')
+            field("No. of Loading Bays"; Rec."No. of Loading Bays")
             {
                 ApplicationArea = All;
-                Caption = 'Test field';
+                ToolTip = 'Show the number of loading bays available at this location.';
             }
         }
     }
