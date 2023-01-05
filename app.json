@@ -1,0 +1,26 @@
+{
+  "id": "3a4b60c4-ad9a-4cb8-a194-c457d905ec05",
+  "name": "Location Bays",
+  "publisher": "The 365 People",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://LocationBays.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
